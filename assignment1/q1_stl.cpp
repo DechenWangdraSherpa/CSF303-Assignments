@@ -9,7 +9,7 @@ using namespace std;
 // Part a:
 void part_a() {
     int n;
-    cout << "[Part a] Enter N (number of integers, 1 <= N <= 100000): ";
+    cout << "[Part a] Enter N (number of integers): ";
     cin >> n;
 
     vector<int> v(n);
