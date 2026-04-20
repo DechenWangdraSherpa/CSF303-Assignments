@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     int n;
-    cout << "Enter N (number of elements, 1 <= N <= 20): ";
+    cout << "Enter N (number of elements): ";
     cin >> n;
 
     vector<int> a(n);

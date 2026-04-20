@@ -125,8 +125,8 @@ LPS     : 0 0 1 2 0 1 2 3 4
 Enter text   : ABABCABABABABCABAB
 Enter pattern: ABABCABAB
 LPS array for "ABABCABAB": 0 0 1 2 0 1 2 3 4
-KMP: Pattern found at indices: 0 8
+KMP: Pattern found at indices: 0 9
 
 === Rabin-Karp Search (lowercase) ===
-Rabin-Karp: Pattern found at indices: 0 8
+Rabin-Karp: Pattern found at indices: 0 9
 ```
